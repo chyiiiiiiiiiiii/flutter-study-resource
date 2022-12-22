@@ -63,7 +63,13 @@
 - [Food or Restaurant App - Main Page | Flutter](https://www.youtube.com/watch?v=cvAw9wucmBc&ab_channel=TheFlutterWay)
 
 ## Animation
+##### Article
+- [Animations on Value Changed with Flutter & Riverpod](https://bartvwezel.nl/flutter/animations-on-value-changed-with-flutter-riverpod/)
+
 ##### Video
+- [Marcin Szałek - Flutter: scroll to perfection - Flutter Warsaw #15](https://www.youtube.com/watch?v=F6WJAvRWbPo&ab_channel=FlutterWarsaw)
+- [From Motion Design Specs To Flutter Code | Cagatay Ulusoy - FlutterVikings](https://www.youtube.com/watch?v=Y9Az2p06yTs&list=PL4dBIh1xps-Emd7K4xwX4rdUnfaKFMuna&index=34&ab_channel=FlutterCommunity)
+- [Animations in Flutter - Flying High with Flutter #88](https://www.youtube.com/watch?v=2Q-VpUTdT0A&ab_channel=FlyingHighwithFlutter)
 
 ## Design System
 ##### Video
