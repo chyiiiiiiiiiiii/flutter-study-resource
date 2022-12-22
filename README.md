@@ -2,16 +2,28 @@
 
 <img src="./cover.png"/>
 
-## Widget Tree, Element Tree, RenderObject Tree
+## Tips, Performance
 ##### Article
+- [Flutter: Rendering Optimization Tips](https://blog.gskinner.com/archives/2022/09/flutter-rendering-optimization-tips.html)
 
 ##### Video
+- [How to Improve Flutter Performance](https://www.youtube.com/watch?v=KH-3tbD7NoU&ab_channel=StreamChat%26Feeds)
+- [Tips, Tricks and Tools: Flutter Performance | Gordon Hayes - FlutterVikings](https://www.youtube.com/watch?v=B3xXkqhqf0Y&list=PL4dBIh1xps-Emd7K4xwX4rdUnfaKFMuna&index=25&ab_channel=FlutterCommunity)
 
+## Widget Tree, Element Tree, RenderObject Tree
+##### Article
+- [Why is Flutter Fast? — Part 1: Sublinear Building](https://medium.com/flutter-community/why-is-flutter-fast-part-1-sublinear-building-317572cd6b47)
+- [Tree surgery](https://docs.flutter.dev/resources/inside-flutter#tree-surgery)
+
+##### Video
+- [How Stateful Widgets Are Used Best - Flutter Widgets 101 Ep. 2](https://www.youtube.com/watch?v=AqCMFXEmf3w&ab_channel=GoogleDevelopers)
+- [Craig Labenz - Lifecycle Of A Widget]()
+- [Draw undrawable with your custom RenderBox! | FlutterVikings 2022](https://www.youtube.com/watch?v=svb41OLzCDY&ab_channel=FlutterCommunity)
+- [How to Improve Flutter Performance](https://www.youtube.com/watch?v=KH-3tbD7NoU&ab_channel=StreamChat%26Feeds)
 
 ## Widget
 ##### Video
-- [Top 10 Widgets every Flutter Developer should know!
-](https://www.youtube.com/watch?v=2Dg_5CSWYB4&ab_channel=JohannesMilke)
+- [Top 10 Widgets every Flutter Developer should know!](https://www.youtube.com/watch?v=2Dg_5CSWYB4&ab_channel=JohannesMilke)
 - [Flutter's Multi-Child Layout Algorithm](https://www.youtube.com/watch?v=_jlXS8chb7g&ab_channel=FlutterCommunity)
 
 ## Riverpod
@@ -45,6 +57,10 @@
 - [MarcusNg/flutter_shopping_list](https://github.com/MarcusNg/flutter_shopping_list)
 - [antonio-nicolau/flutter-riverpod-example-with-solid-principles](https://github.com/antonio-nicolau/flutter-riverpod-example-with-solid-principles)
 
+## Sliver, ScrollView
+##### Video
+- [Lazy Flutter performance | Session](https://www.youtube.com/watch?v=qax_nOpgz7E&t=182s&ab_channel=Flutter)
+- [Food or Restaurant App - Main Page | Flutter](https://www.youtube.com/watch?v=cvAw9wucmBc&ab_channel=TheFlutterWay)
 
 ## Animation
 ##### Video
@@ -52,7 +68,10 @@
 ## Design System
 ##### Video
 - ["Design system in a large Flutter app. Developer’s perspective." – Design system in banking app](https://www.youtube.com/watch?v=aK4A9145xOI&ab_channel=FlutterWarsaw)
--
+
+## Design Pattern
+##### Project
+- [Mangirdas Kazlauskas - Flutter Design Patterns](https://flutterdesignpatterns.com/)
 
 
 ---
