@@ -93,6 +93,7 @@ There are many useful and interesting resources here, which is my study process.
 - [Marcin Szałek - Flutter: scroll to perfection - Flutter Warsaw #15](https://www.youtube.com/watch?v=F6WJAvRWbPo&ab_channel=FlutterWarsaw)
 - [From Motion Design Specs To Flutter Code | Cagatay Ulusoy - FlutterVikings](https://www.youtube.com/watch?v=Y9Az2p06yTs&list=PL4dBIh1xps-Emd7K4xwX4rdUnfaKFMuna&index=34&ab_channel=FlutterCommunity)
 - [Animations in Flutter - Flying High with Flutter #88](https://www.youtube.com/watch?v=2Q-VpUTdT0A&ab_channel=FlyingHighwithFlutter)
+- [Flutter Animations - AnimationController - Floating Balloon Animation](https://www.youtube.com/watch?v=b89oQwr3GBs&ab_channel=JediPixels)
 
 ## Listener & GestureDetector & Recognizer
 ##### Video
