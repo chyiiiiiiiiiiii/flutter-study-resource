@@ -116,6 +116,7 @@ There are many useful and interesting resources here, which is my study process.
 - [Marcin Szałek - Flutter: scroll to perfection - Flutter Warsaw #15](https://www.youtube.com/watch?v=F6WJAvRWbPo&ab_channel=FlutterWarsaw)
 - [From Motion Design Specs To Flutter Code | Cagatay Ulusoy - FlutterVikings](https://www.youtube.com/watch?v=Y9Az2p06yTs&list=PL4dBIh1xps-Emd7K4xwX4rdUnfaKFMuna&index=34&ab_channel=FlutterCommunity)
 - [Animations in Flutter - Flying High with Flutter #88](https://www.youtube.com/watch?v=2Q-VpUTdT0A&ab_channel=FlyingHighwithFlutter)
+- [Flutter Animations - AnimationController - Floating Balloon Animation](https://www.youtube.com/watch?v=b89oQwr3GBs&ab_channel=JediPixels)
 - [Flutter AnimatedBuilder and Transform - Learn the Basics of Animations in Flutter](https://www.youtube.com/watch?v=z6KweorVrNk&ab_channel=VandadNahavandipoor)
 - [Flutter Chained Animations, Curves and Clippers - Learn About Chained Explicit Animations in Flutter](https://www.youtube.com/watch?v=md1vrcHyxig&t=1s&ab_channel=VandadNahavandipoor)
 - [3D Animations in Flutter - Learn How to Stack and Rotate Widgets for a 3D Effect in Flutter](https://www.youtube.com/watch?v=vqrmXhT2HQg&t=1982s&ab_channel=VandadNahavandipoor)
